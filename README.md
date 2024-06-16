@@ -8,3 +8,6 @@
 
 - [[Server] Redis 캐싱을 통한 검색 기능 45배 성능 향상](https://blog.naver.com/tata153/223386262957)
 - [[Server] Spring Boot 서버에 트래픽 제한을 구현하는 방법](https://blog.naver.com/tata153/223479524031)
+
+시연영상 링크는 다음과 같습니다.
+[시연영상](https://youtu.be/IT69fpqS1v8)
